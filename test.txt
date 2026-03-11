@@ -1,0 +1,5 @@
+Deposited: $26.93 ---------- Balance: $26.93
+Withdrew: $5.99 ---------- Balance: $20.94
+Deposited: $109.43 ---------- Balance: $130.37
+
+Total: $130.37
