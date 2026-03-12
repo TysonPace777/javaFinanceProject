@@ -6,9 +6,7 @@ The Java Finance project has a menu of options for the user to deposit, withdraw
 
 I created this software so anybody can have an easy way to view and manage their finances without needing to write anything down or do any math.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+https://youtu.be/m795gbYqc6Q
 
 # Development Environment
 
